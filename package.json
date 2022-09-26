@@ -1,0 +1,18 @@
+{
+  "name": "4-kelnes",
+  "version": "1.0.0",
+  "description": "html",
+  "main": "index.js",
+  "scripts": {
+    "dev":"dead-server --port=4004 --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html"
+  ],
+  "author": "Laura",
+  "license": "ISC",
+  "devDependencies": {
+    "dead-server": "^1.0.6"
+  }
+}
