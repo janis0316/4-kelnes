@@ -1,0 +1,35 @@
+.body {
+    background-color:#f56c62 ;
+}
+.main {
+    display: inline-block;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.div {
+    text-align: center;
+}
+.text {
+    color:#efd5b4 ;
+    font-size: 35px;
+}
+.image {
+    margin: 0px;
+    width: 50%;
+}
+.button {
+    margin-top: 0.5%;
+    background-color:#efd5b4 ;
+    color:#b9443b;
+    border:0;
+    border-radius: 5px;
+    font-size: 30px;
+}
+.input {
+    background-color:#efd5b4 ;
+    border:0;
+    border-radius: 5px;
+    font-size: 30px;
+    width: 50%;
+}
